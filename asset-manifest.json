@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/transportapp.github.io/static/css/main.cfbe972c.chunk.css",
+    "main.js": "/transportapp.github.io/static/js/main.89359b1c.chunk.js",
+    "main.js.map": "/transportapp.github.io/static/js/main.89359b1c.chunk.js.map",
+    "runtime-main.js": "/transportapp.github.io/static/js/runtime-main.477b15a2.js",
+    "runtime-main.js.map": "/transportapp.github.io/static/js/runtime-main.477b15a2.js.map",
+    "static/js/2.74cf9598.chunk.js": "/transportapp.github.io/static/js/2.74cf9598.chunk.js",
+    "static/js/2.74cf9598.chunk.js.map": "/transportapp.github.io/static/js/2.74cf9598.chunk.js.map",
+    "index.html": "/transportapp.github.io/index.html",
+    "static/css/main.cfbe972c.chunk.css.map": "/transportapp.github.io/static/css/main.cfbe972c.chunk.css.map",
+    "static/js/2.74cf9598.chunk.js.LICENSE.txt": "/transportapp.github.io/static/js/2.74cf9598.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.477b15a2.js",
+    "static/js/2.74cf9598.chunk.js",
+    "static/css/main.cfbe972c.chunk.css",
+    "static/js/main.89359b1c.chunk.js"
+  ]
+}
